@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidIntroSlides</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+    <string name="slide_1_title">Hello</string>
+    <string name="slide_1_desc">Hello Everyone!</string>
+
+    <string name="slide_2_title">Awesome App</string>
+    <string name="slide_2_desc">This is an awesome app</string>
+
+    <string name="slide_3_title">Android everyday</string>
+    <string name="slide_3_desc">Android playground :)</string>
+
+    <string name="slide_4_title">Start</string>
+    <string name="slide_4_desc">Finished</string>
+
+    <string name="play_again_desc"></string>
+    <string name="play_again">Again</string>
+</resources>
